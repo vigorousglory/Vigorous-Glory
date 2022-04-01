@@ -1,0 +1,22 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/new-santa-claus-christmas-gift/id1489061336",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
+        },
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/anime-girl-life-high-school-3d/id1576317306",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/anime%20girl%20Android.jpeg"
+        },
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/virtual-mom-baby-care-games/id1531554339",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Mother%20Simulator%20Android.png"
+        }
+       
+        
+    ]
+}
