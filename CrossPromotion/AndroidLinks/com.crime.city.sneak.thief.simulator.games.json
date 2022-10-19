@@ -3,21 +3,25 @@
        
         
         {
+            "GameName":"Christmas Flying Santa",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
             "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
         },
         {
+            "GameName":"Pregnant Mother",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.pregnant.mom.simulator",
             "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Pregnant%20Mother%20Android.jpeg"
         },
         {
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.anime.school.girl.life",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/anime%20girl%20Android.jpeg"
+            "GameName":"Kill it with spider Hero",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.spider.killhero",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Kill%20it%20Spider%20Hero%20Android.jpg"
         },
         
         {
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.mother.life.simulator",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Mother%20Simulator%20Android.png"
+            "GameName":"Volley Ball",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.beach.volley.ball",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Beach%20Volley%20Ball.jpg"
         }
        
         
