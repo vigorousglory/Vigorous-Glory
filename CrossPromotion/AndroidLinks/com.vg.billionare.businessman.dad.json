@@ -1,0 +1,29 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameName":"Christmas Flying Santa",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
+        },
+        {
+            "GameName":"Idle Gym",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.idlefitness.gym.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Idle%20Fitness%20Gym.jpg"
+        },
+        {
+            "GameName":"Kill it with spider Hero",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.spider.killhero",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Kill%20it%20Spider%20Hero%20Android.jpg"
+        },
+        
+        {
+            "GameName":"Volley Ball",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.beach.volley.ball",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Beach%20Volley%20Ball.jpg"
+        }
+       
+        
+    ]
+}
