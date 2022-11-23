@@ -1,0 +1,22 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/new-santa-claus-christmas-gift/id1489061336",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
+        },
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/idle-fitness-gym-life-games-3d/id6444376863",
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Idle%20Fitness%20Gym.jpg"
+        },
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/virtual-mom-baby-care-games/id1531554339",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Mother%20Simulator%20Android.png"
+        }
+       
+        
+    ]
+}
