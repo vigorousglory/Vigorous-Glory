@@ -1,0 +1,22 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/new-santa-claus-christmas-gift/id1489061336",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
+        },
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/summer-car-mechanic-sim-games/id6444888201",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Car%20Mechanic%20Simulator.jpg"
+        },
+        
+        {
+            "GameUrl": "https://apps.apple.com/us/app/virtual-mom-baby-care-games/id1531554339",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Mother%20Simulator%20Android.png"
+        }
+       
+        
+    ]
+}
