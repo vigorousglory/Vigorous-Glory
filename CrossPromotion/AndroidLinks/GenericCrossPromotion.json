@@ -27,15 +27,11 @@
         
         
         {
-            "GameName":"Barber Shop",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.barber.shop",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Barber%20Shop.jpg"
-        },
-        {
-            "GameName":"Idle Gym",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.idlefitness.gym.simulator",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Idle%20Fitness%20Gym.jpg"
+            "GameNameTest":"Barber Shop",
+            "GameUrlTest": "https://play.google.com/store/apps/details?id=com.vg.barber.shop",
+            "IconUrlTest": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Barber%20Shop.jpg"
         }
+        
         
        
         
