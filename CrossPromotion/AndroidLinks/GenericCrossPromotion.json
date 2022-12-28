@@ -2,6 +2,20 @@
     "CrossPromoUnitTests": [
        
         
+        
+        {
+            "GameNameTest":"Barber Shop",
+            "GameUrlTest": "https://play.google.com/store/apps/details?id=com.vg.barber.shop",
+            "IconUrlTest": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Barber%20Shop.jpg"
+        }
+        
+        
+       
+        
+    ],
+    "CrossPromoUnitTests": [
+       
+        
         {
             "GameName":"Christmas Flying Santa",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
