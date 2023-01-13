@@ -1,0 +1,34 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameName":"Christmas Flying Santa",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
+        },
+        {
+            "GameName":"Car Mechanic",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.summer.car.mechanic",
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Car%20Mechanic%20Simulator.jpg"
+        },
+        {
+            "GameName":"Kill it with spider Hero",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.spider.killhero",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Kill%20it%20Spider%20Hero%20Android.jpg"
+        },
+        
+        {
+            "GameName":"Barber Shop",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.barber.shop",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Barber%20Shop.jpg"
+        },
+        {
+            "GameName":"Idle Gym",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.idlefitness.gym.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Idle%20Fitness%20Gym.jpg"
+        }
+       
+        
+    ]
+}
