@@ -12,8 +12,9 @@
         {
             "GameName":"Twin Baby",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.newborn.twin.babies",
-            "PackageName": "com.test.game2",
+            
             "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Twin%20Baby%20Interstitial.jpeg"
+            "PackageName": "com.test.game223",
         },
         
          {
