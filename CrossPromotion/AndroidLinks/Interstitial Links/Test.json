@@ -1,57 +1,11 @@
 {
     "CrossPromoUnits": [
-       
-        
+
         {
-            "GameName":"Christmas Flying Santa",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
-            "PackageName": "com.test.game1",
-            "TEST" : "",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Christmas%20Interstitial.png"
-        },
-        {
-            "GameName":"Twin Baby",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.newborn.twin.babies",
-            
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Twin%20Baby%20Interstitial.jpeg",
-            "PackageName": "com.test.game223"
-        },
-        
-         {
-            "GameName":"Christmas Flying Santa",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
-            "PackageName": "com.test.game1",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Christmas%20Interstitial.png"
-        },
-        {
-            "GameName":"Twin Baby",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.newborn.twin.babies",
-            "PackageName": "com.test.game2",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Twin%20Baby%20Interstitial.jpeg"
-        },
-         {
-            "GameName":"Christmas Flying Santa",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
-            "PackageName": "com.test.game1",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Christmas%20Interstitial.png"
-        },
-        {
-            "GameName":"Twin Baby",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.newborn.twin.babies",
-            "PackageName": "com.test.game2",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Twin%20Baby%20Interstitial.jpeg"
-        },
-         {
-            "GameName":"Christmas Flying Santa",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
-            "PackageName": "com.test.game1",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Christmas%20Interstitial.png"
-        },
-        {
-            "GameName":"Twin Baby",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.newborn.twin.babies",
-            "PackageName": "com.test.game2",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Twin%20Baby%20Interstitial.jpeg"
+            "GameName":"Kabaddi Game",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.kabaddi.simulator",
+            "PackageName": "com.vg.kabaddi.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Kabaddi%20Fighting%20League.jpg"
         }
        
         
