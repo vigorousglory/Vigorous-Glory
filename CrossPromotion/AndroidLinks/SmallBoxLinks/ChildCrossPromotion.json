@@ -26,12 +26,6 @@
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.barber.shop",
           "PackageName": "com.vg.barber.shop",
             "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Barber%20Shop.jpg"
-        },
-        {
-            "GameName":"Idle Gym",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.idlefitness.gym.simulator",
-          "PackageName": "com.vg.idlefitness.gym.simulator",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Idle%20Fitness%20Gym.jpg"
         }
        
         
