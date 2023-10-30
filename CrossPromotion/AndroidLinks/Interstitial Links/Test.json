@@ -1,12 +1,21 @@
 {
     "CrossPromoUnits": [
-
+       
+        
+        
         {
             "GameName":"Kabaddi Game",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.kabaddi.simulator",
             "PackageName": "com.vg.kabaddi.simulator",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Kabaddi%20Fighting%20League.jpg"
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Kabaddi%20Fighting%20League.jpg",
+            "IconIndex":  0,
+            "VideoUrl":  "https://github.com/vigorousglory/Vigorous-Glory/raw/main/CrossPromotion/Videos/business%20man%20dad%20final.mov",
+            "IsStarredGame":  false,
+            "AdmobStyleIconUrl":""
+            
         }
+        
+        
        
         
     ]
