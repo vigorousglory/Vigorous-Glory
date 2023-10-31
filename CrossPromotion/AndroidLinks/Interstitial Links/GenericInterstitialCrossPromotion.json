@@ -12,7 +12,11 @@
             "GameName":"Twin Baby",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.newborn.twin.babies",
             "PackageName": "com.vg.newborn.twin.babies",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Twin%20Baby%20Interstitial.jpeg"
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Twin%20Baby%20Interstitial.jpeg",
+            "IconIndex":  0,
+            "VideoUrl":  "https://github.com/vigorousglory/Vigorous-Glory/raw/main/CrossPromotion/Videos/TWINS%20BABY%20simulator%20final.mov",
+            "IsStarredGame":  false,
+            "AdmobStyleIconUrl":""
         },
         {
             "GameName":"Kill It With Spider Hero",
@@ -25,10 +29,27 @@
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.kabaddi.simulator",
             "PackageName": "com.vg.kabaddi.simulator",
             "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Kabaddi%20Fighting%20League.jpg"
+        },
+        {
+            "GameName":"Businessman",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.billionare.businessman.dad",
+            "PackageName": "com.vg.billionare.businessman.dad",
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Virtual%20Businessman%20Interstitial.png",
+            "IconIndex":  0,
+            "VideoUrl":  "https://github.com/vigorousglory/Vigorous-Glory/raw/main/CrossPromotion/Videos/business%20man%20dad%20final.mov",
+            "IsStarredGame":  false,
+            "AdmobStyleIconUrl":""
+        },
+        {
+            "GameName":"Virtual Mother",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.mother.life.simulator",
+            "PackageName": "com.vg.mother.life.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/virtual%20mother%20interstitial.jpg",
+            "IconIndex":  0,
+            "VideoUrl":  "https://github.com/vigorousglory/Vigorous-Glory/raw/main/CrossPromotion/Videos/Virtual%20Mother%20Cross%20Promotion.mov",
+            "IsStarredGame":  false,
+            "AdmobStyleIconUrl":""
         }
-        
-        
-       
-        
+
     ]
 }
