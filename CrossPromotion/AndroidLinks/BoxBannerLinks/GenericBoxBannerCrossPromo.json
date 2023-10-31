@@ -8,12 +8,7 @@
             "PackageName": "com.vg.flying.santa.gift.delivery",
             "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
         },
-        {
-            "GameName":"Car Mechanic",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.summer.car.mechanic",
-            "PackageName": "com.vg.summer.car.mechanic",
-            "IconUrl":  "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Car%20Mechanic%20Simulator.jpg"
-        },
+        
         {
             "GameName":"Kill it with spider Hero",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.spider.killhero",
@@ -26,7 +21,21 @@
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.barber.shop",
             "PackageName": "com.vg.barber.shop",
             "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Barber%20Shop.jpg"
-        }
+        },
+
+        {
+             "GameName":"Businessman",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.billionare.businessman.dad",
+            "PackageName": "com.vg.billionare.businessman.dad",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/VIRTUAL%20BUSINESSMAN%20ICON.png"
+        },
+
+        {
+            "GameName":"Virtual Mother",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.mother.life.simulator",
+            "PackageName": "com.vg.mother.life.simulator",
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Mother%20Simulator%20Android.png"
+        },
        
         
     ]
