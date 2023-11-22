@@ -6,7 +6,10 @@
             "GameName":"Christmas Flying Santa",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
             "PackageName": "com.vg.flying.santa.gift.delivery",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png"
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Christmas%20Game%20Android.png",
+             "IconIndex":  "0",
+            "IsStarredGame":  "true",
+              "VideoUrl":  ""
         },
         
         {
