@@ -6,7 +6,11 @@
             "GameName":"Christmas Flying Santa",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.flying.santa.gift.delivery",
             "PackageName": "com.vg.flying.santa.gift.delivery",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Christmas%20Interstitial.png"
+            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Interstitial%20Images/Christmas%20Interstitial.png",
+            "IconIndex":  0,
+            "VideoUrl":  "https://github.com/vigorousglory/Vigorous-Glory/raw/main/CrossPromotion/Videos/Christmas%20Flying%20Santa.mov",
+            "IsStarredGame":  true,
+            "AdmobStyleIconUrl":""
         },
         {
             "GameName":"Twin Baby",
