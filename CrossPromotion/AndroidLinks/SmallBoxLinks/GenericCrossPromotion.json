@@ -14,13 +14,6 @@
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.spider.killhero",
           "PackageName": "com.vg.spider.killhero",
             "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Kill%20it%20Spider%20Hero%20Android.jpg"
-        },
-        
-        {
-            "GameName":"Barber Shop",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.barber.shop",
-          "PackageName": "com.vg.barber.shop",
-            "IconUrl": "https://raw.githubusercontent.com/vigorousglory/Vigorous-Glory/main/CrossPromotion/Images/Barber%20Shop.jpg"
         }
        
         
